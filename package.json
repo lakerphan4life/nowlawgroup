@@ -1,0 +1,19 @@
+{
+  "name": "nowlawgroup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakerphan4life/nowlawgroup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakerphan4life/nowlawgroup/issues"
+  },
+  "homepage": "https://github.com/lakerphan4life/nowlawgroup#readme"
+}
